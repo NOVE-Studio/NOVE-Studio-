@@ -17,9 +17,9 @@ I'm a **Full Stack & Frontend Developer** building clean, fast, and modern web e
 
 | Project | Description | Live |
 |---|---|---|
-| [Schnell Logistics](https://github.com/NOVE-Studio/schnell-logistics) | German freight company website | https://ano-webdev.github.io/schnell-logistics/ |
-| [Van der Berg Legal](https://github.com/NOVE-Studio/vanderberg-legal) | Dutch law firm website | https://ano-webdev.github.io/vanderberg-legal/ |
-| [Maison Dubois](https://github.com/NOVE-Studio/maison-dubois) | French bakery & café website | https://ano-webdev.github.io/Maison-Dubois/ |
+| [Schnell Logistics](https://github.com/NOVE-Studio/schnell-logistics) | German freight company website | https://NOVE-Studio.github.io/schnell-logistics/ |
+| [Van der Berg Legal](https://github.com/NOVE-Studio/vanderberg-legal) | Dutch law firm website | https://NOVE-Studio.github.io/vanderberg-legal/ |
+| [Maison Dubois](https://github.com/NOVE-Studio/maison-dubois) | French bakery & café website | https://NOVE-Studio.github.io/Maison-Dubois/ |
 
 ---
 
